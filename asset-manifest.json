@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/starwarstinder/static/css/main.f749d008.chunk.css",
+    "main.js": "/starwarstinder/static/js/main.8fb2d4cb.chunk.js",
+    "main.js.map": "/starwarstinder/static/js/main.8fb2d4cb.chunk.js.map",
+    "runtime-main.js": "/starwarstinder/static/js/runtime-main.5fa644b0.js",
+    "runtime-main.js.map": "/starwarstinder/static/js/runtime-main.5fa644b0.js.map",
+    "static/css/2.eb45ad44.chunk.css": "/starwarstinder/static/css/2.eb45ad44.chunk.css",
+    "static/js/2.2353d45b.chunk.js": "/starwarstinder/static/js/2.2353d45b.chunk.js",
+    "static/js/2.2353d45b.chunk.js.map": "/starwarstinder/static/js/2.2353d45b.chunk.js.map",
+    "index.html": "/starwarstinder/index.html",
+    "precache-manifest.2753882eda2443aa480e357271319c8f.js": "/starwarstinder/precache-manifest.2753882eda2443aa480e357271319c8f.js",
+    "service-worker.js": "/starwarstinder/service-worker.js",
+    "static/css/2.eb45ad44.chunk.css.map": "/starwarstinder/static/css/2.eb45ad44.chunk.css.map",
+    "static/css/main.f749d008.chunk.css.map": "/starwarstinder/static/css/main.f749d008.chunk.css.map",
+    "static/js/2.2353d45b.chunk.js.LICENSE.txt": "/starwarstinder/static/js/2.2353d45b.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/starwarstinder/static/media/SEGA.12a3db8b.woff",
+    "static/media/greenheart.png": "/starwarstinder/static/media/greenheart.94ed9421.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5fa644b0.js",
+    "static/css/2.eb45ad44.chunk.css",
+    "static/js/2.2353d45b.chunk.js",
+    "static/css/main.f749d008.chunk.css",
+    "static/js/main.8fb2d4cb.chunk.js"
+  ]
+}
