@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/starwarstinder/static/css/main.f749d008.chunk.css",
-    "main.js": "/starwarstinder/static/js/main.2f6343c0.chunk.js",
-    "main.js.map": "/starwarstinder/static/js/main.2f6343c0.chunk.js.map",
+    "main.css": "/starwarstinder/static/css/main.ad40a2d1.chunk.css",
+    "main.js": "/starwarstinder/static/js/main.076e7c68.chunk.js",
+    "main.js.map": "/starwarstinder/static/js/main.076e7c68.chunk.js.map",
     "runtime-main.js": "/starwarstinder/static/js/runtime-main.5fa644b0.js",
     "runtime-main.js.map": "/starwarstinder/static/js/runtime-main.5fa644b0.js.map",
     "static/css/2.eb45ad44.chunk.css": "/starwarstinder/static/css/2.eb45ad44.chunk.css",
     "static/js/2.2353d45b.chunk.js": "/starwarstinder/static/js/2.2353d45b.chunk.js",
     "static/js/2.2353d45b.chunk.js.map": "/starwarstinder/static/js/2.2353d45b.chunk.js.map",
     "index.html": "/starwarstinder/index.html",
-    "precache-manifest.f0632405283557398629c2cdeca344c5.js": "/starwarstinder/precache-manifest.f0632405283557398629c2cdeca344c5.js",
+    "precache-manifest.45bc25e2f22482f0dc02661cef5d8ac5.js": "/starwarstinder/precache-manifest.45bc25e2f22482f0dc02661cef5d8ac5.js",
     "service-worker.js": "/starwarstinder/service-worker.js",
     "static/css/2.eb45ad44.chunk.css.map": "/starwarstinder/static/css/2.eb45ad44.chunk.css.map",
-    "static/css/main.f749d008.chunk.css.map": "/starwarstinder/static/css/main.f749d008.chunk.css.map",
+    "static/css/main.ad40a2d1.chunk.css.map": "/starwarstinder/static/css/main.ad40a2d1.chunk.css.map",
     "static/js/2.2353d45b.chunk.js.LICENSE.txt": "/starwarstinder/static/js/2.2353d45b.chunk.js.LICENSE.txt",
     "static/media/App.css": "/starwarstinder/static/media/SEGA.12a3db8b.woff",
     "static/media/greenheart.png": "/starwarstinder/static/media/greenheart.94ed9421.png"
@@ -21,7 +21,7 @@
     "static/js/runtime-main.5fa644b0.js",
     "static/css/2.eb45ad44.chunk.css",
     "static/js/2.2353d45b.chunk.js",
-    "static/css/main.f749d008.chunk.css",
-    "static/js/main.2f6343c0.chunk.js"
+    "static/css/main.ad40a2d1.chunk.css",
+    "static/js/main.076e7c68.chunk.js"
   ]
 }

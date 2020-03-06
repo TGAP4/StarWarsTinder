@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "91e4a9d9a6f5d7b499a4b3a3d77bfdf0",
+    "revision": "0962e6ae5edf4efa360f07384c09e91a",
     "url": "/starwarstinder/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/starwarstinder/static/css/2.eb45ad44.chunk.css"
   },
   {
-    "revision": "d3446a61618d27230ee5",
-    "url": "/starwarstinder/static/css/main.f749d008.chunk.css"
+    "revision": "4b61fed73ab2f9960e7d",
+    "url": "/starwarstinder/static/css/main.ad40a2d1.chunk.css"
   },
   {
     "revision": "33d91101a6be0f5db180",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/starwarstinder/static/js/2.2353d45b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d3446a61618d27230ee5",
-    "url": "/starwarstinder/static/js/main.2f6343c0.chunk.js"
+    "revision": "4b61fed73ab2f9960e7d",
+    "url": "/starwarstinder/static/js/main.076e7c68.chunk.js"
   },
   {
     "revision": "5f3300780ad9363fac1f",
