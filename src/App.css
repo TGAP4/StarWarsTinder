@@ -1,0 +1,18 @@
+body {
+  background: url('./images/space.jpg')
+}
+
+@font-face {
+  font-family: 'SEGA LOGO FONT';
+  font-style: normal;
+  font-weight: normal;
+  src: local('SEGA LOGO FONT'), url('SEGA.woff') format('woff');
+  }
+
+.title {
+  font-family: 'SEGA LOGO FONT', arial;
+  color: yellow;
+  font-weight: 500;
+  font-size: 4rem;
+  margin: 20px
+}
