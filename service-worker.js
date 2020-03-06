@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/starwarstinder/precache-manifest.2753882eda2443aa480e357271319c8f.js"
+  "/starwarstinder/precache-manifest.f0632405283557398629c2cdeca344c5.js"
 );
 
 self.addEventListener('message', (event) => {
