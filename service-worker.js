@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/StarWarsTinder/precache-manifest.4bc71ab3641fbd2f987c93c90cbc2ae1.js"
+  "/StarWarsTinder/precache-manifest.4950196866442ebb8ce712f643f0a76d.js"
 );
 
 self.addEventListener('message', (event) => {

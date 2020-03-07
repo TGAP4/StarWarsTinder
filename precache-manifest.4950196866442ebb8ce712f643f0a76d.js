@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "df175d15ad75b001c9806871b874bbc1",
+    "revision": "8af4bdf17484310a07d04bf3f44ffe30",
     "url": "/StarWarsTinder/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/StarWarsTinder/static/css/2.eb45ad44.chunk.css"
   },
   {
-    "revision": "d65d5602c9871ad6c3fd",
+    "revision": "83987f8d233958b3a190",
     "url": "/StarWarsTinder/static/css/main.c03350a9.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/StarWarsTinder/static/js/2.2353d45b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d65d5602c9871ad6c3fd",
-    "url": "/StarWarsTinder/static/js/main.95a4ed31.chunk.js"
+    "revision": "83987f8d233958b3a190",
+    "url": "/StarWarsTinder/static/js/main.97015dfb.chunk.js"
   },
   {
     "revision": "cf2cea3f64242578dd59",

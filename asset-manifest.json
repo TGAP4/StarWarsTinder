@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/StarWarsTinder/static/css/main.c03350a9.chunk.css",
-    "main.js": "/StarWarsTinder/static/js/main.95a4ed31.chunk.js",
-    "main.js.map": "/StarWarsTinder/static/js/main.95a4ed31.chunk.js.map",
+    "main.js": "/StarWarsTinder/static/js/main.97015dfb.chunk.js",
+    "main.js.map": "/StarWarsTinder/static/js/main.97015dfb.chunk.js.map",
     "runtime-main.js": "/StarWarsTinder/static/js/runtime-main.27a2a63d.js",
     "runtime-main.js.map": "/StarWarsTinder/static/js/runtime-main.27a2a63d.js.map",
     "static/css/2.eb45ad44.chunk.css": "/StarWarsTinder/static/css/2.eb45ad44.chunk.css",
     "static/js/2.2353d45b.chunk.js": "/StarWarsTinder/static/js/2.2353d45b.chunk.js",
     "static/js/2.2353d45b.chunk.js.map": "/StarWarsTinder/static/js/2.2353d45b.chunk.js.map",
     "index.html": "/StarWarsTinder/index.html",
-    "precache-manifest.4bc71ab3641fbd2f987c93c90cbc2ae1.js": "/StarWarsTinder/precache-manifest.4bc71ab3641fbd2f987c93c90cbc2ae1.js",
+    "precache-manifest.4950196866442ebb8ce712f643f0a76d.js": "/StarWarsTinder/precache-manifest.4950196866442ebb8ce712f643f0a76d.js",
     "service-worker.js": "/StarWarsTinder/service-worker.js",
     "static/css/2.eb45ad44.chunk.css.map": "/StarWarsTinder/static/css/2.eb45ad44.chunk.css.map",
     "static/css/main.c03350a9.chunk.css.map": "/StarWarsTinder/static/css/main.c03350a9.chunk.css.map",
@@ -22,6 +22,6 @@
     "static/css/2.eb45ad44.chunk.css",
     "static/js/2.2353d45b.chunk.js",
     "static/css/main.c03350a9.chunk.css",
-    "static/js/main.95a4ed31.chunk.js"
+    "static/js/main.97015dfb.chunk.js"
   ]
 }
