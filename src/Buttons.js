@@ -2,7 +2,7 @@ import React from 'react';
 
 const Buttons = ({refresh}) => {
     return (
-        <div style={{backgroundColor: 'white'}} className='justify-center flex items-center justify-around pa3'>
+        <div style={{backgroundColor: 'white'}} className='justify-center flex items-center justify-around pa2'>
             <input 
                 type='image' 
                 alt='swipe left' 

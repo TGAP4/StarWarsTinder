@@ -8,7 +8,7 @@ const Profile = ({ person }) => {
                         backgroundPosition: 'center', 
                         backgroundSize: 'cover',
                         backgroundColor: 'gray',
-                        height: '66vh'
+                        height: '60vh'
                         }}
                 className='flex shadow-5 br3 items-end'>
                 <div className='pv1 ph3 white'>
