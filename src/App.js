@@ -24,9 +24,9 @@ class App extends Component {
       .then(response => response.json())
       .then(user => this.setState({person: user}))
       .then(() => {
-        this.state.person.height === 'unknown' ?
-          this.setState(Object.assign(this.state.person, {height: ' '})) :
-          this.setState(Object.assign(this.state.person, {height: this.state.person.height+'cm'}))
+        this.state.person.height === 'unknown'
+          ? this.setState(Object.assign(this.state.person, {height: ' '}))
+          : this.setState(Object.assign(this.state.person, {height: this.state.person.height+'cm'}))
         }
       )
       .then(() => {
