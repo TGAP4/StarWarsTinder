@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/StarWarsTinder/static/css/main.c03350a9.chunk.css",
-    "main.js": "/StarWarsTinder/static/js/main.97015dfb.chunk.js",
-    "main.js.map": "/StarWarsTinder/static/js/main.97015dfb.chunk.js.map",
-    "runtime-main.js": "/StarWarsTinder/static/js/runtime-main.27a2a63d.js",
-    "runtime-main.js.map": "/StarWarsTinder/static/js/runtime-main.27a2a63d.js.map",
-    "static/css/2.eb45ad44.chunk.css": "/StarWarsTinder/static/css/2.eb45ad44.chunk.css",
-    "static/js/2.2353d45b.chunk.js": "/StarWarsTinder/static/js/2.2353d45b.chunk.js",
-    "static/js/2.2353d45b.chunk.js.map": "/StarWarsTinder/static/js/2.2353d45b.chunk.js.map",
-    "index.html": "/StarWarsTinder/index.html",
-    "precache-manifest.4950196866442ebb8ce712f643f0a76d.js": "/StarWarsTinder/precache-manifest.4950196866442ebb8ce712f643f0a76d.js",
-    "service-worker.js": "/StarWarsTinder/service-worker.js",
-    "static/css/2.eb45ad44.chunk.css.map": "/StarWarsTinder/static/css/2.eb45ad44.chunk.css.map",
-    "static/css/main.c03350a9.chunk.css.map": "/StarWarsTinder/static/css/main.c03350a9.chunk.css.map",
-    "static/js/2.2353d45b.chunk.js.LICENSE.txt": "/StarWarsTinder/static/js/2.2353d45b.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/StarWarsTinder/static/media/SEGA.12a3db8b.woff",
-    "static/media/greenheart.png": "/StarWarsTinder/static/media/greenheart.94ed9421.png"
+    "main.css": "/star-wars-tinder/static/css/main.cb084fa9.chunk.css",
+    "main.js": "/star-wars-tinder/static/js/main.58717b0a.chunk.js",
+    "main.js.map": "/star-wars-tinder/static/js/main.58717b0a.chunk.js.map",
+    "runtime-main.js": "/star-wars-tinder/static/js/runtime-main.4eed1e95.js",
+    "runtime-main.js.map": "/star-wars-tinder/static/js/runtime-main.4eed1e95.js.map",
+    "static/css/2.eb45ad44.chunk.css": "/star-wars-tinder/static/css/2.eb45ad44.chunk.css",
+    "static/js/2.2353d45b.chunk.js": "/star-wars-tinder/static/js/2.2353d45b.chunk.js",
+    "static/js/2.2353d45b.chunk.js.map": "/star-wars-tinder/static/js/2.2353d45b.chunk.js.map",
+    "index.html": "/star-wars-tinder/index.html",
+    "precache-manifest.a12c0ae99db3aaebb4fade4f0e94ed17.js": "/star-wars-tinder/precache-manifest.a12c0ae99db3aaebb4fade4f0e94ed17.js",
+    "service-worker.js": "/star-wars-tinder/service-worker.js",
+    "static/css/2.eb45ad44.chunk.css.map": "/star-wars-tinder/static/css/2.eb45ad44.chunk.css.map",
+    "static/css/main.cb084fa9.chunk.css.map": "/star-wars-tinder/static/css/main.cb084fa9.chunk.css.map",
+    "static/js/2.2353d45b.chunk.js.LICENSE.txt": "/star-wars-tinder/static/js/2.2353d45b.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/star-wars-tinder/static/media/SEGA.12a3db8b.woff",
+    "static/media/greenheart.png": "/star-wars-tinder/static/media/greenheart.94ed9421.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.27a2a63d.js",
+    "static/js/runtime-main.4eed1e95.js",
     "static/css/2.eb45ad44.chunk.css",
     "static/js/2.2353d45b.chunk.js",
-    "static/css/main.c03350a9.chunk.css",
-    "static/js/main.97015dfb.chunk.js"
+    "static/css/main.cb084fa9.chunk.css",
+    "static/js/main.58717b0a.chunk.js"
   ]
 }
